@@ -92,12 +92,11 @@ https://www.figma.com/file/GeoBbvBydetHv1MXmX731a?embed_host=notion&kind=&node-i
 ---
 
 ### 프로젝트 구조도
-![image](uploads/709d3964cda1abdd6ab5b4ef27c8c538/image.png)
+![image](https://user-images.githubusercontent.com/84957136/187975881-ae923168-9349-40bc-b409-2efdcf1ecb42.png)
 
 ---
 
 ### 서비스 구조도
-![image](uploads/03036aaa810e7318ba09adb726406d85/image.png)
-
+![image](https://user-images.githubusercontent.com/84957136/187975927-150643b1-ff98-4093-8a29-9a6a8ab3063d.png)
 
 ---

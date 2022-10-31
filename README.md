@@ -98,5 +98,4 @@ https://www.figma.com/file/GeoBbvBydetHv1MXmX731a?embed_host=notion&kind=&node-i
 
 ### 서비스 구조도
 ![image](https://user-images.githubusercontent.com/84957136/187975927-150643b1-ff98-4093-8a29-9a6a8ab3063d.png)
-
 ---
